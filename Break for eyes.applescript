@@ -1,6 +1,6 @@
 display dialog "Beginning" buttons {"OK"}
 repeat
-	delay 60 * 20
+	delay 60 * 19
 	delay 50
 	display notification "Break in 10 seconds." with title "Break for eyes" sound name "Ping"
 	delay 10
